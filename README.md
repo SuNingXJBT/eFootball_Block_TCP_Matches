@@ -3,6 +3,8 @@ Shared in channel  https://t.me/efootballCheaterReport
 
 and group https://t.me/eFootballxjbt 
 
+Origin:  https://t.me/efootballCheaterReport/159
+
 In eFootball , Konami provides three modes: peer-peer as previous PES, Peer-Server-Peer via UDP and Peer-Server-Peer via TCP. The TCP one is the most laggy. It makes people feel unplayable. So the first thing you start to play the game online is to block TCP matches.
 
 The principle of blocking TCP matches is to block access to the server-side TCP ports 30000-35000. Steam or MS store users can do it on PC’s firewall, other users need to do it on router.
