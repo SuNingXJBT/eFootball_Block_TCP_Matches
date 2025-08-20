@@ -1,3 +1,5 @@
+After 4.3 update. port 5736 is also used for TCP matches. It should be blocked as well. More update is in the group
+
 Block TCP matches.
 Shared in channel  https://t.me/efootballCheaterReport 
 
